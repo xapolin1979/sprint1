@@ -1,10 +1,7 @@
-
-.card1_item1{
-transition: 1s;
+.card1_item1 {
+  transition: 1s;
 }
-.card1_item1:hover{
-    background-color: rgb(102, 255, 0);
-    transform: scale(1.2)
+.card1_item1:hover {
+  background-color: rgb(102, 255, 0);
+  transform: scale(1.2);
 }
-
-
